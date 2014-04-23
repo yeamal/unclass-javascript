@@ -1,2 +1,4 @@
-unclass-javascript
+Unclass Javascript
 ==================
+
+### yay best class ever!
